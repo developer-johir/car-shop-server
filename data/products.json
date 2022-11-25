@@ -1,0 +1,186 @@
+[
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "title": "Tesla",
+      "location": "Dhaka",
+      "resale_price": "1200",
+      "original_price": "24000",
+      "used": "3 Years (2019-2021)",
+      "posted": "03/07/2022",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Abir"
+      },
+      "image": "https://media.wired.com/photos/62a227c8e2c39b514139ab5a/master/w_2560%2Cc_limit/Tesla-Hack-Car-Theft-Security-1240477016.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "title": "Lexus",
+      "location": "Sylhet",
+      "resale_price": "1100",
+      "original_price": "22000",
+      "used": "3 Years (2018-2021)",
+      "posted": "07/02/2021",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Jamal"
+      },
+      "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2019-Lexus-RX-350-Sports-Luxury-SUV-white-Vani-Naidoo-1001x565p-%281%29.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "title": "Tesla",
+      "location": "Sunamganj",
+      "resale_price": "1300",
+      "original_price": "24000",
+      "used": "3 Years (2019-2021)",
+      "posted": "03/01/2022",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Samim"
+      },
+      "image": "https://static.toiimg.com/thumb/msid-93310058,width-1070,height-580,imgsize-35726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "title": "Toyota",
+      "location": "Dhaka",
+      "resale_price": "1000",
+      "original_price": "20000",
+      "used": "3 Years (2019-2021)",
+      "posted": "10/012/2021",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Abir"
+      },
+      "image": "https://kalingatv.com/wp-content/uploads/2022/03/Toyota-cars-price-hike-1.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "03",
+      "title": "Lexus",
+      "location": "Sylhet",
+      "resale_price": "1500",
+      "original_price": "28000",
+      "used": "2 Years (2020-2022)",
+      "posted": "09/07/2022",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Jamal"
+      },
+      "image": "https://cars.usnews.com/static/images/Auto/custom/13948/2019_Lexus_RX_350_1.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "01",
+      "title": "Tesla",
+      "location": "Sunamganj",
+      "resale_price": "800",
+      "original_price": "19000",
+      "used": "2 Years (2019-2020)",
+      "posted": "28/07/2021",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Samim"
+      },
+      "image": "https://sasatimes.com/wp-content/uploads/2022/08/Tesla-Model-Y-could-become-the-best-selling-car-in-Europe.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "title": "Toyota",
+      "location": "Dhaka",
+      "resale_price": "1100",
+      "original_price": "22000",
+      "used": "3 Years (2019-2021)",
+      "posted": "023/04/2022",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Abir"
+      },
+      "image": "https://images.dealer.com/graphics/2021/Toyota/V9_16x9/2021-Corolla-Hybrid-Sedan_01.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+
+    {
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "title": "Lexus",
+      "location": "Sylhet",
+      "resale_price": "900",
+      "original_price": "18000",
+      "used": "2 Years (2020-2021)",
+      "posted": "12/09/2022",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Jamal"
+      },
+      "image": "https://www.lexusindia.co.in/content/dam/lexus-v3-india/price-list/lexus-nx-350h-overview_1200x600.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+    },
+    {
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": false
+        },
+        "category_id": "02",
+        "title": "Toyota",
+      "location": "Sunamganj",
+      "resale_price": "700",
+      "original_price": "19000",
+      "used": "4 Years (2018-2021)",
+      "posted": "15/06/2022",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "author": {
+        "seller_name": "Samim"
+      },
+      "image": "https://www.shutterstock.com/image-photo/istanbul-june-17-2019-corolla-260nw-1426052525.jpg",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine."
+      }
+  ]

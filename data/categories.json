@@ -1,0 +1,17 @@
+[
+    {
+      "id": "01",
+      "name": "Tesla",
+      "img": "https://i.ytimg.com/vi/K-LWM-ZyvOc/maxresdefault.jpg"
+    },
+    {
+      "id": "02",
+      "name": "Toyota",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Innova-Crysta/8105/1606215226663/front-view-118.jpg"
+    },
+    {
+      "id": "03",
+      "name": "Lexus",
+      "img": "https://i.pinimg.com/736x/e3/f5/2b/e3f52b9cf5223144f09ec28e560d370f--solar-flares-orange-color.jpg"
+    }
+  ]
