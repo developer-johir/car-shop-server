@@ -53,28 +53,6 @@ run().catch(console.log);
 app.get('/', (req, res) => {
    res.send('Car shop is node mongo API running');
 });
-
-
-
-
-// app.get('/shop-categories', (req, res) => {
-//     res.send(categories)
-// });
-
-// app.get('/category/:id', (req, res) => {
-//     const id = req.params.id;
-//     const category_products = products.filter(product => product.category_id === id);
-//     res.send(category_products);
-// });
-
-// app.get('/products/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedProducts = products.find(product => product._id === id);
-//     res.send(selectedProducts);
-// })
-
-
-
  
 app.listen(port, () => {
    console.log(`Car Shop Server running on port ${port}`);
